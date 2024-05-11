@@ -2,13 +2,13 @@
 -  **Cloud Providers:** Amazon Web Services, Google Cloud Platform, Microsoft Azure and Oracle Cloud Infrastructure
 -  **Configuration Management:** Ansible and Dell Kace
 -  **Containerisation and Orchestration:** Docker and Kubernetes
--  **CI/CD:** Github Actions, GitLab CICD
+-  **CI/CD:** Github Actions, GitLab CICD and TravisCI
 -  **Databases:** MariaDB, MySQL and MongoDB
 -  **Infrastructure as Code:** OpenTofu, Terraform and Terragrunt
 -  **Operating Systems:** Ubuntu, Redhat and Windows Server
--  **Scripting:**: Bash, PowerShell and Python. Currently studying Go.
--  **Version Control Systems:** Git, GitHub, GitLab
--  **Other technologies:** Cloudflare, YAML, HELM
+-  **Scripting:**: Bash, PowerShell and Python and I'm currently studying Go
+-  **Version Control Systems:** Git, GitHub and GitLab
+-  **Other technologies:** Cloudflare and YAML
 -  **Other technologies I've studied but not used in a while:** Assembly, C, C++, CSS, Java, JavaScript, HTML, PHP and Visual Basic
 
 ## 🏅 Certifications and Courses
