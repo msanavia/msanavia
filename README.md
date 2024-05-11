@@ -26,3 +26,23 @@
 - SRE - The Big Picture \[[View Certificate](https://www.udemy.com/certificate/UC-75ca91ad-f61f-4014-9c0f-ce921979bf22/)\]
 - Terraform - From Zero to Certified Professional \[[View Certificate](https://www.udemy.com/certificate/UC-7f89621c-ff75-4f5a-be62-9d0a122acaa6/)\]
 - The Complete Cyber Security Course : Network Security \[[View Certificate](https://www.udemy.com/certificate/UC-7d210d86-99ce-4aff-ba84-87c8616714cb/)\]
+
+## 📚 My Bookshelf
+- Ansible for Real-Life Automation (by Gineesh Madapparambath)
+- Automating DevOps with GitLab CI/CD Pipelines (by Christopher Cowell, Nicholas Lotz, Chris Timberlake)
+- Become ITIL® 4 Foundation Certified in 7 Days (by Abhinav Krishna Kaiser)
+- Cloud Native Devops with Kubernetes (by Justin Domingus and John Arundel)
+- Crucial Conversations (by Joseph Grenny, Kerry Patterson, Ron McMillan, Al Switzler, Emily Gregory)
+- Docker - Up & Running (by Sean P. Kane, Karl Matthias)
+- Go in Practice (by Matt Butcher, Matt Farina)
+- Good Company (by Julietta Dexter)
+- Kubernetes - Up and Running (by Brendan Burns, Joe Beda, Kelsey Hightower, Lachlan Evenson)
+- Life 3.0 (by Max Tegmark)
+- Linux Shell Scripting with Bash (by Ken O. Burtch)
+- Never Split the Difference (by Chris Voss)
+- Python - The Bible: 3 Manuscripts in 1 Book (by Maurice J. Thompson)
+- Seven Databases in Seven Weeks (by Eric Redmond, Jim R. Wilson)
+- Submarine (by Joe Dunthorne)
+- Terraform - Up and Running (by Yevgeniy Brikman)
+- The Five Dysfunctions of a Team (by Patrick Lencioni)
+- Who Moved My Cheese (by Dr Spencer Johnson)
