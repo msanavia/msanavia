@@ -6,20 +6,18 @@
 -  **Databases:** MariaDB, MySQL and MongoDB
 -  **Infrastructure as Code:** OpenTofu, Terraform and Terragrunt
 -  **Operating Systems:** Ubuntu, Redhat and Windows Server
--  **Scripting:**: Bash, PowerShell and Python and I'm currently studying Go
+-  **Scripting:** Bash, PowerShell and Python and I'm currently studying Go
 -  **Version Control Systems:** Git, GitHub and GitLab
 -  **Other technologies:** Cloudflare and YAML
 -  **Other technologies I've studied but not used in a while:** Assembly, C, C++, CSS, Java, JavaScript, HTML, PHP and Visual Basic
 
-## 🏅 Certifications and Courses
-
-### Certifications
+## 🏅 Certifications
 - AWS Certified Cloud Practitioner
 - Terraform Certified Associate 003
 - CompTIA+
 - ITIL4
 
-### Courses
+## 📜 Courses
 - Bash Shell Scripting \[[View Certificate](https://www.udemy.com/certificate/UC-29d8aeb5-7d13-4680-abef-235a24230d53/)\]
 - GitHub Ultimate: Master Git and GitHub \[[View Certificate](https://www.udemy.com/certificate/UC-d1d372d9-b746-43f1-9ccf-8509ab4bfb8e/)\]
 - Google Workspace (G Suite) Admin \[[View Certificate](https://udemy.com/certificate/UC-9e54bf19-324a-4078-b690-3cdfd12ad37a)\]
